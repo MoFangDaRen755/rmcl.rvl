@@ -1,4 +1,4 @@
-from demo import Ui_MainWindow
+from ui import Ui_MainWindow
 from PyQt5 import QtWidgets, QtCore,QtGui
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QDialog, QPushButton
 import sys
